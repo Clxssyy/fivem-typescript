@@ -7,7 +7,7 @@
       "@/*": ["../*"],
       "@@/*": ["../../*"]
     },
-    "types": ["@citizenfx/client"]
+    "types": ["@citizenfx/client", "@types/node"]
   },
   "exclude": ["node_modules"],
   "include": ["./", "../common"],

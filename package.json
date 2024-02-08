@@ -10,11 +10,11 @@
   "author": "classy",
   "license": "ISC",
   "devDependencies": {
-    "@citizenfx/client": "^2.0.6947-1",
-    "@citizenfx/server": "^2.0.6947-1",
-    "@types/node": "^20.8.9",
+    "@citizenfx/client": "^2.0.7436-1",
+    "@citizenfx/server": "^2.0.7436-1",
+    "@types/node": "^20.11.17",
     "esbuild": "^0.19.5",
-    "typescript": "^5.2.2",
-    "fivem-js": "^1.5.2"
+    "fivem-js": "^1.5.2",
+    "typescript": "^5.2.2"
   }
 }
