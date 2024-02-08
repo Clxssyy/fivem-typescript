@@ -2,25 +2,14 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
-      "@client/*": [
-        "./*"
-      ],
-      "@common/*": [
-        "../common/*"
-      ],
+      "@client/*": ["./*"],
+      "@common/*": ["../common/*"],
       "@/*": ["../*"],
       "@@/*": ["../../*"]
     },
-    "types": [
-      "@citizenfx/client"
-    ]
+    "types": ["@citizenfx/client"]
   },
-  "exclude": [
-    "node_modules"
-  ],
-  "include": [
-    "./",
-    "../common"
-  ],
+  "exclude": ["node_modules"],
+  "include": ["./", "../common"],
   "extends": "../tsconfig"
 }
